@@ -1,1 +1,2 @@
 two
+<p color = "purple"> this is second text file</p>
